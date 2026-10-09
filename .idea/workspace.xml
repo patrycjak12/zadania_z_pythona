@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6006ef11-aef5-4bc4-9d87-f26ed2f9b69a" name="Changes" comment="" />
+    <list default="true" id="6006ef11-aef5-4bc4-9d87-f26ed2f9b69a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/FileContentIndex/d9f4135d-b5c2-4938-bc9f-59af49f709b3.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/v18/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/v18/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/v18/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2/CopilotIndices/18.10.1207.43936/SemanticSymbols.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/Podstawy2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/Podstawy2.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy2/Podstawy2.slnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy3/Podstawy3.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +28,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KQNTY6SmjJuEXuzykMTcNOxsUC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,11 +45,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Podstawy2.executor": "Run",
     "Python.Podstawy3.executor": "Run",
+    "Python.odcinek3.executor": "Run",
+    "Python.podstawy4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -55,6 +73,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Podstawy3.py" />
       <option name="PARAMETERS" value="" />
@@ -85,6 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791485839282</updated>
+      <workItem from="1791532647746" duration="3000" />
     </task>
     <servers />
   </component>
