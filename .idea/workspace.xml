@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6006ef11-aef5-4bc4-9d87-f26ed2f9b69a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/FileContentIndex/d9f4135d-b5c2-4938-bc9f-59af49f709b3.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/v18/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/v18/DocumentLayout.backup.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2.slnx/v18/DocumentLayout.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/.vs/Podstawy2/CopilotIndices/18.10.1207.43936/SemanticSymbols.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/Podstawy2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/Podstawy2.pyproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy2/Podstawy2.slnx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podstawy3/Podstawy3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Podstawy5" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Odcinek4/odcinek4.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -40,25 +36,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Podstawy2.executor": "Run",
-    "Python.Podstawy3.executor": "Run",
-    "Python.odcinek3.executor": "Run",
-    "Python.podstawy4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Odcinek5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Podstawy2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Podstawy3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odcinek3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odcinek4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.podstawy4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Patry/Desktop/PYTHON PODSTAWY&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.odcinek4">
+    <configuration name="Odcinek5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\Desktop\PODSTAWY INFORMATYKI\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Odcinek5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odcinek5/Odcinek5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Podstawy3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON PODSTAWY" />
       <option name="ENV_FILES" value="" />
@@ -84,8 +111,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="odcinek4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Odcinek4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Odcinek4/odcinek4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.odcinek4" />
         <item itemvalue="Python.Podstawy3" />
       </list>
     </recent_temporary>
@@ -105,10 +158,36 @@
       <option name="presentableId" value="Default" />
       <updated>1791485839282</updated>
       <workItem from="1791532647746" duration="3000" />
+      <workItem from="1791542213975" duration="109000" />
+      <workItem from="1791546634493" duration="1991000" />
+      <workItem from="1791637923140" duration="83000" />
+      <workItem from="1791638015258" duration="19000" />
+      <workItem from="1791638043829" duration="53000" />
+      <workItem from="1791638112111" duration="3244000" />
+      <workItem from="1791648163524" duration="520000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Odcinek3/odcinek3.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PYTHON_PODSTAWY$Podstawy3.coverage" NAME="Podstawy3 Coverage Results" MODIFIED="1791547018240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab1_1_py$lab1_1.coverage" NAME="lab1_1 Coverage Results" MODIFIED="1791638123101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1_1" />
+    <SUITE FILE_PATH="coverage/PYTHON_PODSTAWY$lab1_1.coverage" NAME="lab1_1 Coverage Results" MODIFIED="1791547781400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1_1" />
+    <SUITE FILE_PATH="coverage/lab1_1_py$Podstawy3.coverage" NAME="Podstawy3 Coverage Results" MODIFIED="1791637925584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lab1_1_py$odcinek4.coverage" NAME="odcinek4 Coverage Results" MODIFIED="1791646320171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Odcinek4" />
+    <SUITE FILE_PATH="coverage/lab1_1_py$Odcinek5.coverage" NAME="Odcinek5 Coverage Results" MODIFIED="1791648476322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Odcinek5" />
   </component>
 </project>
